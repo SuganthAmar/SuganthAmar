@@ -2,7 +2,7 @@
 
 ###
 <img src="https://github.com/SuganthAmar/SuganthAmar/blob/main/Resources/Blue%20and%20Purple%20Geometric%20Technology%20Linkedin%20Banner.png" alt="Snake animation" />
-###
+
 
 <img src="https://github.com/SuganthAmar/SuganthAmar/blob/main/Resources/grid-snake.svg" alt="Snake animation" />
 
